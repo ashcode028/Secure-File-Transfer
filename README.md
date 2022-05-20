@@ -1,10 +1,5 @@
 # Secure File transer
 
-Class: CSE544
-Name:: Ashita
-Roll No: 2019028
-Type: Assignment 3
-
 ## Overview :
 
 - There is a server program
