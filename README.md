@@ -1,5 +1,7 @@
 # Secure File transer
+This repo contains a secure file copy program, which works similar to __scp__. The program uses netcat as a client and a server, where the payload is fed to (or from) a separate program that encrypts (or decrypts) the data being transmitted.
 
+The program emulates the scp program, i.e. the program to copy files encrypted and encapsulated inside a ssh connection/tunnel.
 ## Overview :
 
 - There is a server program
